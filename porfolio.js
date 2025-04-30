@@ -61,7 +61,7 @@ document.addEventListener('DOMContentLoaded', function () {
   // Update name
   const nameElement = document.querySelector('.name');
   if (nameElement) {
-    nameElement.textContent = 'Shashwati Gavhale - Portfolio Updated';
+    nameElement.textContent = 'Shashwati Gavhale';
   }
 
   // Contact form with AJAX submission
